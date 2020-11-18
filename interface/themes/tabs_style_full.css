@@ -301,7 +301,7 @@ body {
 }
 
 .menuSection:hover {
-    background-color: #CCE3F8;
+    background-color: #f2f2f2;
 }
 
 .menuSection > .menuEntries {
@@ -339,7 +339,7 @@ body {
 }
 
 .menuLabel:hover {
-    background: #CCE3F8;
+    background: #f2f2f2;
     color: var(--dark);
 }
 
@@ -356,7 +356,7 @@ div.menuLabel:hover {
 }
 
 .menuEntries li .menuLabel:hover {
-    background-color: #CCE3F8;
+    background-color: #f2f2f2;
     color: var(--dark);
 }
 
