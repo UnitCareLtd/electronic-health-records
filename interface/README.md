@@ -1,4 +1,4 @@
-# UnitCare - OpenEMR Interface
+# UnitCare - EMR Interface
 
 The UnitCare Interface based of OpenEMR UI is built with [SASS](https://sass-lang.com/) on top of a bootstrap base (compiled with [gulp](https://gulpjs.com/)).
 
